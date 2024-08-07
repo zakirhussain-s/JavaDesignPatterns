@@ -1,7 +1,10 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
 public class Main {
     public static void main(String[] args) {
+//        The Factory Method pattern addresses a common problem in software design:
+//        how to create objects without specifying the exact class of object that will be created.
+//        This may seem like a trivial issue, but it becomes significant when dealing with complex systems.
+
         CharacterFactory factory;
 
         // Create a Warrior
