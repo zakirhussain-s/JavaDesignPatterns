@@ -14,3 +14,8 @@ public class AdapterPatternDemo {
     }
 }
 
+//Explanation
+//USSocket: Represents the US power socket.
+//USCharger: The charger that works with the US socket.
+//EuropeanSocket: The interface for a European power socket.
+//EuropeanToUSAdapter: The adapter that allows a US charger to be plugged into a European socket.
